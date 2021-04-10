@@ -5,9 +5,6 @@
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Learn more about FullStack Developer
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
