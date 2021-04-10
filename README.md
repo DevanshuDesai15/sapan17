@@ -52,8 +52,8 @@
 
 [website]: https://google.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
+[twitter]: https://twitter.com/Saps_17
+[youtube]: https://www.youtube.com/channel/UC_XTvSHHO5fBdON7WlgjDyg
 [instagram]: https://instagram.com/sapan_17
 [linkedin]: https://linkedin.com/in/desaisapanp
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
